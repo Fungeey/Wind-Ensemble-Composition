@@ -124,7 +124,7 @@
           <Tempo>
             <tempo>2.33333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 140</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 140</b></text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
@@ -721,19 +721,19 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.33333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -923,8 +923,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -942,8 +942,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <pitch>67</pitch>
@@ -1098,19 +1098,26 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
                 <next>
                   <location>
-                    <fractions>1/4</fractions>
+                    <fractions>1/8</fractions>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1119,26 +1126,16 @@
               <Spanner type="Tie">
                 <prev>
                   <location>
-                    <fractions>-1/4</fractions>
+                    <fractions>-1/8</fractions>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-7/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -1150,14 +1147,6 @@
         <voice>
           <Chord>
             <durationType>whole</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>7/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -2034,12 +2023,8 @@
               <tpc>12</tpc>
               </Note>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <pitch>58</pitch>
