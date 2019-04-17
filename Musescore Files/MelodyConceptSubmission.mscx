@@ -721,9 +721,9 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.66667</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
@@ -952,6 +952,10 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
