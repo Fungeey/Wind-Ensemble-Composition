@@ -433,62 +433,6 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="0" span="5" col="0"/>
-        <barLineSpan>4</barLineSpan>
-        </Staff>
-      <trackName>E♭ Clarinet</trackName>
-      <Instrument>
-        <longName>E♭ Clarinet</longName>
-        <shortName>E♭ Cl.</shortName>
-        <trackName>E♭ Clarinet</trackName>
-        <minPitchP>55</minPitchP>
-        <maxPitchP>99</maxPitchP>
-        <minPitchA>55</minPitchA>
-        <maxPitchA>94</maxPitchA>
-        <transposeDiatonic>2</transposeDiatonic>
-        <transposeChromatic>3</transposeChromatic>
-        <instrumentId>wind.reed.clarinet.eflat</instrumentId>
-        <Articulation>
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Articulation name="staccatissimo">
-          <velocity>100</velocity>
-          <gateTime>33</gateTime>
-          </Articulation>
-        <Articulation name="staccato">
-          <velocity>100</velocity>
-          <gateTime>50</gateTime>
-          </Articulation>
-        <Articulation name="portato">
-          <velocity>100</velocity>
-          <gateTime>67</gateTime>
-          </Articulation>
-        <Articulation name="tenuto">
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Articulation name="marcato">
-          <velocity>120</velocity>
-          <gateTime>67</gateTime>
-          </Articulation>
-        <Articulation name="sforzato">
-          <velocity>120</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Channel>
-          <program value="71"/>
-          <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>7</midiChannel>
-          </Channel>
-        </Instrument>
-      </Part>
-    <Part>
-      <Staff id="9">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
         <bracket type="2" span="3" col="1"/>
         <barLineSpan>3</barLineSpan>
         </Staff>
@@ -541,7 +485,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="10">
+      <Staff id="9">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -596,7 +540,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="11">
+      <Staff id="10">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -651,7 +595,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="12">
+      <Staff id="11">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -709,7 +653,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="13">
+      <Staff id="12">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -766,7 +710,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="14">
+      <Staff id="13">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -821,7 +765,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="15">
+      <Staff id="14">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -880,7 +824,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="16">
+      <Staff id="15">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -938,7 +882,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="17">
+      <Staff id="16">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1001,7 +945,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="18">
+      <Staff id="17">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1062,7 +1006,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="19">
+      <Staff id="18">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1123,7 +1067,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="20">
+      <Staff id="19">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1179,7 +1123,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="21">
+      <Staff id="20">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1234,7 +1178,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="22">
+      <Staff id="21">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1290,7 +1234,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="23">
+      <Staff id="22">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1345,7 +1289,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="24">
+      <Staff id="23">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1402,7 +1346,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="25">
+      <Staff id="24">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1457,7 +1401,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="26">
+      <Staff id="25">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1511,7 +1455,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="27">
+      <Staff id="26">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1567,7 +1511,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="28">
+      <Staff id="27">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1624,7 +1568,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="29">
+      <Staff id="28">
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -1832,7 +1776,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="30">
+      <Staff id="29">
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -2676,47 +2620,6 @@ B. Tbn.</shortName>
             <sigD>4</sigD>
             </TimeSig>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="17">
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
-          <TimeSig>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Tuplet>
@@ -3006,7 +2909,7 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       </Staff>
-    <Staff id="18">
+    <Staff id="17">
       <Measure>
         <voice>
           <KeySig>
@@ -3306,7 +3209,7 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       </Staff>
-    <Staff id="19">
+    <Staff id="18">
       <Measure>
         <voice>
           <KeySig>
@@ -3606,6 +3509,47 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       </Staff>
+    <Staff id="19">
+      <Measure>
+        <voice>
+          <KeySig>
+            <accidental>-2</accidental>
+            </KeySig>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      </Staff>
     <Staff id="20">
       <Measure>
         <voice>
@@ -3665,47 +3609,6 @@ B. Tbn.</shortName>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="22">
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
-          <TimeSig>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -3748,12 +3651,15 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -3809,7 +3715,7 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       </Staff>
-    <Staff id="23">
+    <Staff id="22">
       <Measure>
         <voice>
           <KeySig>
@@ -3928,6 +3834,147 @@ B. Tbn.</shortName>
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      </Staff>
+    <Staff id="23">
+      <Measure>
+        <voice>
+          <KeySig>
+            <accidental>-2</accidental>
+            </KeySig>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Beam>
+            </Beam>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articMarcatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4032,147 +4079,6 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="25">
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
-          <TimeSig>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
@@ -4215,7 +4121,7 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       </Staff>
-    <Staff id="26">
+    <Staff id="25">
       <Measure>
         <voice>
           <KeySig>
@@ -4356,6 +4262,47 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       </Staff>
+    <Staff id="26">
+      <Measure>
+        <voice>
+          <KeySig>
+            <accidental>-2</accidental>
+            </KeySig>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      </Staff>
     <Staff id="27">
       <Measure>
         <voice>
@@ -4400,9 +4347,6 @@ B. Tbn.</shortName>
     <Staff id="28">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -4439,44 +4383,6 @@ B. Tbn.</shortName>
         </Measure>
       </Staff>
     <Staff id="29">
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="30">
       <Measure>
         <voice>
           <TimeSig>
