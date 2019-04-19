@@ -520,7 +520,6 @@
         <Channel>
           <program value="71"/>
           <synti>Fluid</synti>
-          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
@@ -574,7 +573,6 @@
         <Channel>
           <program value="71"/>
           <synti>Fluid</synti>
-          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
@@ -628,7 +626,6 @@
         <Channel>
           <program value="71"/>
           <synti>Fluid</synti>
-          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
