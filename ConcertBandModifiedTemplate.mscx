@@ -38,7 +38,7 @@
           </StaffType>
         <defaultConcertClef>G8va</defaultConcertClef>
         <defaultTransposingClef>G</defaultTransposingClef>
-        <bracket type="0" span="7" col="0"/>
+        <bracket type="0" span="6" col="0"/>
         <barLineSpan>6</barLineSpan>
         </Staff>
       <trackName>Piccolo</trackName>
@@ -323,7 +323,7 @@
           <name>stdNormal</name>
           </StaffType>
         <defaultClef>F</defaultClef>
-        <bracket type="2" span="2" col="1"/>
+        <bracket type="2" span="1" col="1"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <trackName>Bassoon 1</trackName>
@@ -375,60 +375,6 @@
       </Part>
     <Part>
       <Staff id="7">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
-        <defaultClef>F</defaultClef>
-        </Staff>
-      <trackName>Bassoon 2</trackName>
-      <Instrument>
-        <longName>Bassoon 2</longName>
-        <shortName>Bsn. 2</shortName>
-        <trackName>Bassoon</trackName>
-        <minPitchP>34</minPitchP>
-        <maxPitchP>76</maxPitchP>
-        <minPitchA>34</minPitchA>
-        <maxPitchA>69</maxPitchA>
-        <instrumentId>wind.reed.bassoon</instrumentId>
-        <clef>F</clef>
-        <Articulation>
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Articulation name="staccatissimo">
-          <velocity>100</velocity>
-          <gateTime>33</gateTime>
-          </Articulation>
-        <Articulation name="staccato">
-          <velocity>100</velocity>
-          <gateTime>50</gateTime>
-          </Articulation>
-        <Articulation name="portato">
-          <velocity>100</velocity>
-          <gateTime>67</gateTime>
-          </Articulation>
-        <Articulation name="tenuto">
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Articulation name="marcato">
-          <velocity>120</velocity>
-          <gateTime>67</gateTime>
-          </Articulation>
-        <Articulation name="sforzato">
-          <velocity>120</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Channel>
-          <program value="70"/>
-          <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>6</midiChannel>
-          </Channel>
-        </Instrument>
-      </Part>
-    <Part>
-      <Staff id="8">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -484,7 +430,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="9">
+      <Staff id="8">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -539,7 +485,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="10">
+      <Staff id="9">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -594,7 +540,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="11">
+      <Staff id="10">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -652,7 +598,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="12">
+      <Staff id="11">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -709,7 +655,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="13">
+      <Staff id="12">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -764,7 +710,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="14">
+      <Staff id="13">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -823,7 +769,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="15">
+      <Staff id="14">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -881,7 +827,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="16">
+      <Staff id="15">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -944,7 +890,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="17">
+      <Staff id="16">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1005,7 +951,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="18">
+      <Staff id="17">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1066,7 +1012,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="19">
+      <Staff id="18">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1122,7 +1068,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="20">
+      <Staff id="19">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1177,7 +1123,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="21">
+      <Staff id="20">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1233,7 +1179,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="22">
+      <Staff id="21">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1288,7 +1234,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="23">
+      <Staff id="22">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1345,7 +1291,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="24">
+      <Staff id="23">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1400,7 +1346,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="25">
+      <Staff id="24">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1454,7 +1400,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="26">
+      <Staff id="25">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1510,7 +1456,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="27">
+      <Staff id="26">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1567,7 +1513,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="28">
+      <Staff id="27">
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -1775,7 +1721,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="29">
+      <Staff id="28">
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -2818,9 +2764,6 @@ B. Tbn.</shortName>
     <Staff id="7">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -3357,6 +3300,9 @@ B. Tbn.</shortName>
     <Staff id="11">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -3628,9 +3574,6 @@ B. Tbn.</shortName>
     <Staff id="13">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>1</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -3765,6 +3708,9 @@ B. Tbn.</shortName>
     <Staff id="14">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -3899,9 +3845,6 @@ B. Tbn.</shortName>
     <Staff id="15">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>1</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -4304,6 +4247,9 @@ B. Tbn.</shortName>
     <Staff id="18">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -4576,7 +4522,7 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-1</accidental>
+            <accidental>-2</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
@@ -5534,9 +5480,6 @@ B. Tbn.</shortName>
     <Staff id="27">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -5669,140 +5612,6 @@ B. Tbn.</shortName>
         </Measure>
       </Staff>
     <Staff id="28">
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="29">
       <Measure>
         <voice>
           <TimeSig>
