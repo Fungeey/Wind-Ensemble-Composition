@@ -12,7 +12,6 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
-      <concertPitch>1</concertPitch>
       <Spatium>0.77</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -22,7 +21,7 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2019-04-17</metaTag>
+    <metaTag name="creationDate">2019-04-18</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -31,7 +30,7 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">IntroFull</metaTag>
+    <metaTag name="workTitle">Concert Band (Modified)</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -39,7 +38,7 @@
           </StaffType>
         <defaultConcertClef>G8va</defaultConcertClef>
         <defaultTransposingClef>G</defaultTransposingClef>
-        <bracket type="0" span="7" col="0"/>
+        <bracket type="0" span="6" col="0"/>
         <barLineSpan>6</barLineSpan>
         </Staff>
       <trackName>Piccolo</trackName>
@@ -324,7 +323,7 @@
           <name>stdNormal</name>
           </StaffType>
         <defaultClef>F</defaultClef>
-        <bracket type="2" span="2" col="1"/>
+        <bracket type="2" span="1" col="1"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <trackName>Bassoon 1</trackName>
@@ -376,60 +375,6 @@
       </Part>
     <Part>
       <Staff id="7">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
-        <defaultClef>F</defaultClef>
-        </Staff>
-      <trackName>Bassoon 2</trackName>
-      <Instrument>
-        <longName>Bassoon 2</longName>
-        <shortName>Bsn. 2</shortName>
-        <trackName>Bassoon</trackName>
-        <minPitchP>34</minPitchP>
-        <maxPitchP>76</maxPitchP>
-        <minPitchA>34</minPitchA>
-        <maxPitchA>69</maxPitchA>
-        <instrumentId>wind.reed.bassoon</instrumentId>
-        <clef>F</clef>
-        <Articulation>
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Articulation name="staccatissimo">
-          <velocity>100</velocity>
-          <gateTime>33</gateTime>
-          </Articulation>
-        <Articulation name="staccato">
-          <velocity>100</velocity>
-          <gateTime>50</gateTime>
-          </Articulation>
-        <Articulation name="portato">
-          <velocity>100</velocity>
-          <gateTime>67</gateTime>
-          </Articulation>
-        <Articulation name="tenuto">
-          <velocity>100</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Articulation name="marcato">
-          <velocity>120</velocity>
-          <gateTime>67</gateTime>
-          </Articulation>
-        <Articulation name="sforzato">
-          <velocity>120</velocity>
-          <gateTime>100</gateTime>
-          </Articulation>
-        <Channel>
-          <program value="70"/>
-          <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>6</midiChannel>
-          </Channel>
-        </Instrument>
-      </Part>
-    <Part>
-      <Staff id="8">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -485,7 +430,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="9">
+      <Staff id="8">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -540,7 +485,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="10">
+      <Staff id="9">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -595,7 +540,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="11">
+      <Staff id="10">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -653,7 +598,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="12">
+      <Staff id="11">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -710,7 +655,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="13">
+      <Staff id="12">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -765,7 +710,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="14">
+      <Staff id="13">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -824,7 +769,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="15">
+      <Staff id="14">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -882,7 +827,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="16">
+      <Staff id="15">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -945,7 +890,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="17">
+      <Staff id="16">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1006,7 +951,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="18">
+      <Staff id="17">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1067,7 +1012,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="19">
+      <Staff id="18">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1123,7 +1068,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="20">
+      <Staff id="19">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1178,7 +1123,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="21">
+      <Staff id="20">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1234,7 +1179,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="22">
+      <Staff id="21">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1289,7 +1234,7 @@
         </Instrument>
       </Part>
     <Part>
-      <Staff id="23">
+      <Staff id="22">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1346,7 +1291,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="24">
+      <Staff id="23">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1401,7 +1346,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="25">
+      <Staff id="24">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1455,7 +1400,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="26">
+      <Staff id="25">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1511,7 +1456,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="27">
+      <Staff id="26">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -1568,7 +1513,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="28">
+      <Staff id="27">
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -1776,7 +1721,7 @@ B. Tbn.</shortName>
         </Instrument>
       </Part>
     <Part>
-      <Staff id="29">
+      <Staff id="28">
         <StaffType group="percussion">
           <name>perc5Line</name>
           <keysig>0</keysig>
@@ -1987,7 +1932,7 @@ B. Tbn.</shortName>
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>IntroFull</text>
+          <text>Concert Band (Modified)</text>
           </Text>
         </VBox>
       <Measure>
@@ -2000,10 +1945,106 @@ B. Tbn.</shortName>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 140</b></text>
+            <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2075,6 +2116,102 @@ B. Tbn.</shortName>
             </Rest>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       </Staff>
     <Staff id="3">
       <Measure>
@@ -2086,6 +2223,102 @@ B. Tbn.</shortName>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2157,6 +2390,102 @@ B. Tbn.</shortName>
             </Rest>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       </Staff>
     <Staff id="5">
       <Measure>
@@ -2168,6 +2497,102 @@ B. Tbn.</shortName>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2239,17 +2664,206 @@ B. Tbn.</shortName>
             </Rest>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       </Staff>
     <Staff id="7">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2284,13 +2898,106 @@ B. Tbn.</shortName>
     <Staff id="8">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2325,13 +3032,106 @@ B. Tbn.</shortName>
     <Staff id="9">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2366,13 +3166,106 @@ B. Tbn.</shortName>
     <Staff id="10">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2408,12 +3301,108 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2449,12 +3438,108 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2489,13 +3574,106 @@ B. Tbn.</shortName>
     <Staff id="13">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2531,12 +3709,108 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2571,13 +3845,106 @@ B. Tbn.</shortName>
     <Staff id="15">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -2612,600 +3979,268 @@ B. Tbn.</shortName>
     <Staff id="16">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articAccentAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
     <Staff id="17">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articAccentAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3213,299 +4248,136 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-2</accidental>
+            <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articAccentBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3513,12 +4385,108 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-2</accidental>
+            <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -3590,6 +4558,102 @@ B. Tbn.</shortName>
             </Rest>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       </Staff>
     <Staff id="21">
       <Measure>
@@ -3609,109 +4673,122 @@ B. Tbn.</shortName>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articAccentAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3733,109 +4810,122 @@ B. Tbn.</shortName>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articAccentAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3849,134 +4939,130 @@ B. Tbn.</shortName>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3990,134 +5076,130 @@ B. Tbn.</shortName>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -4131,134 +5213,130 @@ B. Tbn.</shortName>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>31</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
-          <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -4302,17 +5380,206 @@ B. Tbn.</shortName>
             </Rest>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       </Staff>
     <Staff id="27">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -4381,14 +5648,72 @@ B. Tbn.</shortName>
             </Rest>
           </voice>
         </Measure>
-      </Staff>
-    <Staff id="29">
       <Measure>
         <voice>
-          <TimeSig>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
