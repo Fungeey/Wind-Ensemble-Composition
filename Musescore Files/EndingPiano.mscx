@@ -291,6 +291,7 @@
             </Chord>
           <Harmony>
             <root>12</root>
+            <base>16</base>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -347,6 +348,7 @@
         <voice>
           <Harmony>
             <root>11</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -496,6 +498,7 @@
             </Chord>
           <Harmony>
             <root>13</root>
+            <base>17</base>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -519,8 +522,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>16</root>
-            <name>m</name>
+            <root>12</root>
+            <base>16</base>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
