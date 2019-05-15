@@ -1957,7 +1957,7 @@ B. Tbn.</shortName>
           <Tempo>
             <tempo>1.66667</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100
 </b></text>
             </Tempo>
           </voice>
@@ -7619,8 +7619,13 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -9395,6 +9400,12 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -9721,6 +9732,12 @@ B. Tbn.</shortName>
           </voice>
         </Measure>
       <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          </voice>
         </Measure>
       <Measure>
         <voice>
