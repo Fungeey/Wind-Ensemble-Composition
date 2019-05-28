@@ -5027,9 +5027,9 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5043,10 +5043,19 @@ B. Tbn.</shortName>
                   </location>
                 </next>
               </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5058,11 +5067,18 @@ B. Tbn.</shortName>
                   </location>
                 </prev>
               </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>60</pitch>
+              <pitch>72</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
@@ -5082,46 +5098,62 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>57</pitch>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               <tpc2>19</tpc2>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -5137,9 +5169,9 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5153,52 +5185,6 @@ B. Tbn.</shortName>
                   </location>
                 </next>
               </Spanner>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
@@ -5209,9 +5195,9 @@ B. Tbn.</shortName>
                 </next>
               </Spanner>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5223,11 +5209,18 @@ B. Tbn.</shortName>
                   </location>
                 </prev>
               </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>58</pitch>
+              <pitch>70</pitch>
               <tpc>12</tpc>
               <tpc2>14</tpc2>
               </Note>
@@ -5247,26 +5240,113 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>60</pitch>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Beam>
+            </Beam>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>72</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
@@ -5695,9 +5775,9 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5712,9 +5792,9 @@ B. Tbn.</shortName>
                 </next>
               </Spanner>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5750,9 +5830,9 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5767,9 +5847,9 @@ B. Tbn.</shortName>
                 </next>
               </Spanner>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5785,9 +5865,9 @@ B. Tbn.</shortName>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -5805,9 +5885,9 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5822,9 +5902,64 @@ B. Tbn.</shortName>
                 </next>
               </Spanner>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Beam>
+            </Beam>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -5860,92 +5995,21 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Articulation>
-              <subtype>articStaccatoBelow</subtype>
-              </Articulation>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
@@ -5966,7 +6030,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
+              <pitch>63</pitch>
               <tpc>11</tpc>
               <tpc2>13</tpc2>
               </Note>
@@ -5974,7 +6038,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
+              <pitch>65</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -5997,7 +6061,7 @@ B. Tbn.</shortName>
                 </next>
               </Spanner>
             <Note>
-              <pitch>53</pitch>
+              <pitch>65</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
@@ -6015,7 +6079,7 @@ B. Tbn.</shortName>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>60</pitch>
+              <pitch>72</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
@@ -6026,7 +6090,7 @@ B. Tbn.</shortName>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>60</pitch>
+              <pitch>72</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
@@ -6766,7 +6830,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>50</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
               </Note>
@@ -6776,7 +6840,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
+              <pitch>51</pitch>
               <tpc>11</tpc>
               <tpc2>13</tpc2>
               </Note>
@@ -6784,7 +6848,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>50</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
               </Note>
@@ -6792,7 +6856,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>60</pitch>
+              <pitch>48</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
@@ -6800,7 +6864,7 @@ B. Tbn.</shortName>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
+              <pitch>50</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
               </Note>
@@ -7091,8 +7155,16 @@ B. Tbn.</shortName>
       <Measure>
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
