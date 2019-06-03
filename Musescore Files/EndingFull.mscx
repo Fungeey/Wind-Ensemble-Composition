@@ -1892,9 +1892,7 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <linkedMain/>
         <Text>
-          <linkedMain/>
           <style>Title</style>
           <text>KeyboardLabComposition</text>
           </Text>
@@ -1914,9 +1912,9 @@
             <durationType>half</durationType>
             </Rest>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.5</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 90
 </b></text>
             </Tempo>
           <Beam>
@@ -3053,7 +3051,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>77</pitch>
@@ -3064,7 +3061,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -3075,7 +3071,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>77</pitch>
@@ -3672,7 +3667,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>77</pitch>
@@ -3683,7 +3677,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -3694,7 +3687,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>77</pitch>
@@ -4723,7 +4715,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>65</pitch>
@@ -4735,7 +4726,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>67</pitch>
@@ -4747,7 +4737,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>65</pitch>
@@ -5415,7 +5404,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -5427,7 +5415,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>63</pitch>
@@ -5439,7 +5426,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>60</pitch>
@@ -6061,7 +6047,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>58</pitch>
@@ -6073,7 +6058,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>60</pitch>
@@ -6085,7 +6069,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>57</pitch>
@@ -6707,7 +6690,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -6719,7 +6701,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>63</pitch>
@@ -6731,7 +6712,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>60</pitch>
@@ -7345,7 +7325,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>58</pitch>
@@ -7357,7 +7336,6 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>60</pitch>
@@ -7369,7 +7347,6 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>articAccentBelow</subtype>
-              <linkedMain/>
               </Articulation>
             <Note>
               <pitch>57</pitch>

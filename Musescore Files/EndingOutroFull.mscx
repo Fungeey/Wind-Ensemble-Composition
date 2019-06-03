@@ -13,7 +13,6 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
-      <concertPitch>1</concertPitch>
       <Spatium>0.77</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -1923,7 +1922,7 @@
             <tempo>1.33333</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
             </Tempo>
           </voice>
@@ -2013,7 +2012,7 @@
             <tempo>1.16667</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
             </Tempo>
           <Rest>
@@ -3657,9 +3656,6 @@
     <Staff id="6">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -4047,9 +4043,6 @@
     <Staff id="7">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -4437,9 +4430,6 @@
     <Staff id="8">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -4835,7 +4825,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -5133,9 +5123,6 @@
     <Staff id="10">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -5499,7 +5486,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -5851,7 +5838,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -6201,9 +6188,6 @@
     <Staff id="13">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -6554,7 +6538,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-2</accidental>
+            <accidental>1</accidental>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -6606,7 +6590,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
               <pitch>44</pitch>
               <tpc>10</tpc>
@@ -6917,9 +6901,6 @@
     <Staff id="15">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -7235,9 +7216,6 @@
     <Staff id="16">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -7553,9 +7531,6 @@
     <Staff id="17">
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <linkedMain/>
@@ -7873,7 +7848,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-2</accidental>
+            <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -8192,7 +8167,7 @@
         <voice>
           <KeySig>
             <linkedMain/>
-            <accidental>-2</accidental>
+            <accidental>-1</accidental>
             </KeySig>
           <TimeSig>
             <subtype>1</subtype>
@@ -8563,7 +8538,6 @@
                 <subtype>0</subtype>
                 <offset x="-0.183581" y="1.11345"/>
                 <off2 x="-5.14027" y="0"/>
-                <offset x="-0.183581" y="1.11345"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8593,7 +8567,6 @@
                 <subtype>0</subtype>
                 <offset x="-1.897" y="1.05225"/>
                 <off2 x="2.50894" y="0"/>
-                <offset x="-1.897" y="1.05225"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8930,7 +8903,6 @@
                 <subtype>0</subtype>
                 <offset x="-0.183581" y="1.72538"/>
                 <off2 x="-5.38505" y="0"/>
-                <offset x="-0.183581" y="1.72538"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8960,7 +8932,6 @@
                 <subtype>0</subtype>
                 <offset x="-2.20297" y="1.66419"/>
                 <off2 x="2.50894" y="0"/>
-                <offset x="-2.20297" y="1.66419"/>
                 </Segment>
               </HairPin>
             <next>
@@ -9361,7 +9332,6 @@
                 <subtype>0</subtype>
                 <offset x="-0.444266" y="0.908447"/>
                 <off2 x="-5.03502" y="0"/>
-                <offset x="-0.444266" y="0.908447"/>
                 </Segment>
               </HairPin>
             <next>
@@ -9391,7 +9361,6 @@
                 <subtype>0</subtype>
                 <offset x="-1.75544" y="0.950437"/>
                 <off2 x="2.54956" y="0"/>
-                <offset x="-1.75544" y="0.950437"/>
                 </Segment>
               </HairPin>
             <next>
@@ -11231,6 +11200,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -11338,7 +11308,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -11355,8 +11325,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11368,8 +11336,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11385,8 +11351,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11401,8 +11365,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11450,7 +11412,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -11763,6 +11725,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -11877,7 +11840,7 @@
                   <staves>-1</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -11894,8 +11857,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11907,8 +11868,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11924,8 +11883,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11937,8 +11894,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -11990,7 +11945,7 @@
                   <staves>-1</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -12303,6 +12258,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -12419,7 +12375,7 @@
                   <staves>-2</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -12467,8 +12423,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12501,8 +12455,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12516,8 +12468,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12529,8 +12479,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12545,8 +12493,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12558,8 +12504,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12579,15 +12523,13 @@
                   <staves>-2</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12599,8 +12541,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -12902,6 +12842,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -13016,7 +12957,7 @@
                   <staves>-3</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -13090,7 +13031,7 @@
                   <staves>-3</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -13112,7 +13053,7 @@
                   <staves>-3</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -13404,6 +13345,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -13522,7 +13464,7 @@
                   <staves>-4</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -13539,8 +13481,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -13552,8 +13492,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -13569,8 +13507,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -13585,8 +13521,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -13641,15 +13575,13 @@
                   <staves>-4</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -13661,8 +13593,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -13964,6 +13894,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -14077,7 +14008,7 @@
                   <staves>-5</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -14094,8 +14025,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14108,8 +14037,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14126,8 +14053,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14140,8 +14065,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14195,7 +14118,7 @@
                   <staves>-5</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Beam>
@@ -14204,8 +14127,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14218,8 +14139,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14232,11 +14151,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>70</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -14246,8 +14166,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14260,8 +14178,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14564,6 +14480,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -14675,7 +14592,7 @@
                   <staves>-6</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -14692,8 +14609,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14706,8 +14621,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14724,11 +14637,12 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -14738,8 +14652,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14776,6 +14688,9 @@
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -14793,7 +14708,7 @@
                   <staves>-6</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Beam>
@@ -14802,8 +14717,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14816,8 +14729,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14830,11 +14741,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>70</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -14844,8 +14756,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -14858,8 +14768,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15162,6 +15070,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -15272,7 +15181,7 @@
                   <staves>-7</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -15289,11 +15198,12 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -15303,8 +15213,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15321,8 +15229,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15338,8 +15244,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15396,7 +15300,7 @@
                   <staves>-7</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Beam>
@@ -15405,11 +15309,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -15419,8 +15324,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15433,8 +15336,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15447,11 +15348,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>70</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -15461,8 +15363,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -15765,6 +15665,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -15892,7 +15793,7 @@
                   <staves>-8</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -15966,7 +15867,7 @@
                   <staves>-8</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -15988,7 +15889,7 @@
                   <staves>-8</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -16280,6 +16181,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -16395,7 +16297,7 @@
                   <staves>-9</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -16412,11 +16314,12 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>46</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -16426,8 +16329,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16444,8 +16345,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16461,8 +16360,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16519,15 +16416,13 @@
                   <staves>-9</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16540,8 +16435,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -16844,6 +16737,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -16962,7 +16856,7 @@
                   <staves>-10</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -17025,7 +16919,7 @@
                   <staves>-10</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Beam>
@@ -17034,8 +16928,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17048,11 +16940,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalNatural</subtype>
+                  </Accidental>
                 <pitch>65</pitch>
                 <tpc>13</tpc>
                 <tpc2>16</tpc2>
@@ -17062,11 +16955,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>70</pitch>
                 <tpc>12</tpc>
                 <tpc2>15</tpc2>
@@ -17076,8 +16970,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17090,8 +16982,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17394,6 +17284,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -17509,7 +17400,7 @@
                   <staves>-11</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -17572,7 +17463,7 @@
                   <staves>-11</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Beam>
@@ -17581,8 +17472,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17595,11 +17484,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalNatural</subtype>
+                  </Accidental>
                 <pitch>65</pitch>
                 <tpc>13</tpc>
                 <tpc2>16</tpc2>
@@ -17609,11 +17499,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>70</pitch>
                 <tpc>12</tpc>
                 <tpc2>15</tpc2>
@@ -17623,8 +17514,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17637,8 +17526,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -17941,6 +17828,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -18056,7 +17944,7 @@
                   <staves>-12</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -18119,7 +18007,7 @@
                   <staves>-12</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Beam>
@@ -18128,11 +18016,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>58</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -18142,8 +18031,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -18156,8 +18043,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -18170,11 +18055,12 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>70</pitch>
                 <tpc>12</tpc>
                 <tpc2>14</tpc2>
@@ -18184,8 +18070,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -18488,6 +18372,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -18607,7 +18492,7 @@
                   <staves>-13</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -18624,11 +18509,12 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalFlat</subtype>
+                  </Accidental>
                 <pitch>46</pitch>
                 <tpc>12</tpc>
                 <tpc2>15</tpc2>
@@ -18638,8 +18524,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -18656,13 +18540,11 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
                 <Accidental>
-                  <subtype>accidentalNatural</subtype>
+                  <subtype>accidentalFlat</subtype>
                   </Accidental>
                 <pitch>44</pitch>
                 <tpc>10</tpc>
@@ -18673,8 +18555,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -18731,18 +18611,19 @@
                   <staves>-13</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalNatural</subtype>
+                  </Accidental>
                 <pitch>41</pitch>
                 <tpc>13</tpc>
                 <tpc2>16</tpc2>
@@ -18752,8 +18633,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -19056,6 +18935,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -19174,7 +19054,7 @@
                   <staves>-14</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -19248,15 +19128,13 @@
                   <staves>-14</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -19274,8 +19152,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -19578,6 +19454,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -19694,7 +19571,7 @@
                   <staves>-15</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -19768,15 +19645,13 @@
                   <staves>-15</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -19794,8 +19669,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20098,6 +19971,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -20214,7 +20088,7 @@
                   <staves>-16</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -20288,15 +20162,13 @@
                   <staves>-16</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20314,8 +20186,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20618,6 +20488,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -20736,7 +20607,7 @@
                   <staves>-17</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -20810,15 +20681,13 @@
                   <staves>-17</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -20836,8 +20705,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -21140,6 +21007,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -21255,7 +21123,7 @@
                   <staves>-18</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -21329,15 +21197,13 @@
                   <staves>-18</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -21355,8 +21221,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -21659,6 +21523,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -21777,7 +21642,7 @@
                   <staves>-19</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -21851,7 +21716,7 @@
                   <staves>-19</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Spanner type="HairPin">
@@ -21870,8 +21735,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -21901,8 +21764,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22219,6 +22080,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -22335,7 +22197,7 @@
                   <staves>-20</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -22409,7 +22271,7 @@
                   <staves>-20</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Spanner type="HairPin">
@@ -22428,8 +22290,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22459,8 +22319,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22777,6 +22635,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -22892,7 +22751,7 @@
                   <staves>-21</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -22903,8 +22762,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22916,8 +22773,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22929,8 +22784,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22946,8 +22799,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22961,8 +22812,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22974,8 +22823,6 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -22987,8 +22834,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23000,8 +22845,6 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23043,7 +22886,7 @@
                   <staves>-21</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Spanner type="HairPin">
@@ -23062,8 +22905,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23093,8 +22934,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23411,6 +23250,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -23526,7 +23366,7 @@
                   <staves>-22</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -23543,8 +23383,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23556,8 +23394,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23573,8 +23409,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23589,8 +23423,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23645,15 +23477,13 @@
                   <staves>-22</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23665,8 +23495,6 @@
               <linked>
                 </linked>
               <durationType>half</durationType>
-              <Stem>
-                </Stem>
               <Note>
                 <linked>
                   </linked>
@@ -23968,6 +23796,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -24084,7 +23913,7 @@
                   <staves>-23</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -24158,7 +23987,7 @@
                   <staves>-23</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -24180,7 +24009,7 @@
                   <staves>-23</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -24472,6 +24301,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -24589,7 +24419,7 @@
                   <staves>-24</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -24663,7 +24493,7 @@
                   <staves>-24</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -24685,7 +24515,7 @@
                   <staves>-24</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -24977,6 +24807,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -25240,7 +25071,7 @@
                   <staves>-25</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -25311,7 +25142,7 @@
                   <staves>-25</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -25333,7 +25164,7 @@
                   <staves>-25</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -25625,6 +25456,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
+        <concertPitch>1</concertPitch>
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <Spatium>1.76389</Spatium>
         </Style>
@@ -25887,7 +25719,7 @@
                   <staves>-26</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80
 </b></text>
               </Tempo>
             </voice>
@@ -25958,7 +25790,7 @@
                   <staves>-26</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
@@ -25980,7 +25812,7 @@
                   <staves>-26</staves>
                   </location>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70
 </b></text>
               </Tempo>
             <Rest>
